@@ -1,3 +1,3 @@
 # RoboLunar
+![UML Robo](https://user-images.githubusercontent.com/104447964/170142632-05d3048b-e49c-42d4-821d-76ba9495eb61.png)
 
-![Diagrama Robo](https://user-images.githubusercontent.com/104447964/170106633-d81b3541-8a1e-4e3f-b64e-c203aa6033b5.png)
