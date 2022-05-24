@@ -41,9 +41,6 @@ public class Robo{
             System.out.println("O robô não tirou uma foto do local");
             System.out.println("=======");
           }       
-          if (Bateria < 10){
-        System.out.println("A Bateria do Robô está quase esgotada, então o sistema será finalizado");
-      }
     }
             
       if (Caminhar == 2){
